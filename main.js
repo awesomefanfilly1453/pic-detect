@@ -2,7 +2,7 @@ img="";
  status="";
     objects=[];
 function preload(){
-   img=loadImage("a-busy-street-scene-in-manhattan-new-york-city-usa-looking-south-along-E9TYMX.jpg");
+   img=loadImage("edit.jpg");
    
 }
 
